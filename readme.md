@@ -1,5 +1,7 @@
 # **RestSample API**
 
+Rest API created to showcase basic .Net Core Functionality
+
 ## **Public API**
 
 ## Products -> api/products
